@@ -1,0 +1,7 @@
+{
+    "name": "CODA",
+    "description": "CODA-Proxy",
+    "repository": "https://github.com/interstellarnetwork/interstellar",
+    "logo": "https://github.com/interstellarnetwork/interstellar/blob/main/static/assets/images/branding/favicon/in.png",
+    "keywords": ["school", "interstellar", "ultraviolet", "CODA", "proxy"]
+  }
